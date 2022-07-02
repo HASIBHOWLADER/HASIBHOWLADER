@@ -1,7 +1,6 @@
-![I am GitHub Readme Generator's creator](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/275154454_106698145297835_2603226168726641971_n.jpg?stp=dst-jpg_p640x640&_nc_cat=100&ccb=1-
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
-7&_nc_sid=e3f864&_nc_eui2=AeE_7ithWBIphQHiuRkLd77i9fnX0c8Jn9T1-dfRzwmf1GN3jaY1VqO8EWRbOEyh3s4JTCPF4sQr2mPBJHTA3Ija&_nc_ohc=tkJpyKNT4YcAX_HP3fq&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9ChWl-QeApqVIB6yiFdf5sTMMs1psWAd4mqk53Ieiz_g&oe=62C4FD78)
+![I am GitHub Readme Generator's creator](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/275154454_106698145297835_2603226168726641971_n.jpg?stp=dst-jpg_p640x640&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE_7ithWBIphQHiuRkLd77i9fnX0c8Jn9T1-dfRzwmf1GN3jaY1VqO8EWRbOEyh3s4JTCPF4sQr2mPBJHTA3Ija&_nc_ohc=tkJpyKNT4YcAX_HP3fq&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9ChWl-QeApqVIB6yiFdf5sTMMs1psWAd4mqk53Ieiz_g&oe=62C4FD78)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
